@@ -1,5 +1,6 @@
 # searchEngineIDF
 Reads a file and creates a search engine by indexing the file.
+<<<<<<< HEAD
 ### Assumptions
 - Index is mutable.
 - Capital letters ignored.
@@ -16,3 +17,5 @@ Reads a file and creates a search engine by indexing the file.
 - Run main.java
 - Make sure file is in the working directory.
 
+=======
+>>>>>>> 7a4e8a21215a1259487417475cf1793b29216e7e
